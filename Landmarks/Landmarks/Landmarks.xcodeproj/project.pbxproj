@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A0A18952351BEAA005EE57B /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0A18942351BEAA005EE57B /* UserData.swift */; };
 		0AC64355234811140091EA7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC64354234811140091EA7E /* AppDelegate.swift */; };
 		0AC64357234811140091EA7E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC64356234811140091EA7E /* SceneDelegate.swift */; };
 		0AC64359234811140091EA7E /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC64358234811140091EA7E /* LandmarkDetail.swift */; };
@@ -54,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A0A18942351BEAA005EE57B /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		0AC64351234811140091EA7E /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AC64354234811140091EA7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AC64356234811140091EA7E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				0AC6435F234811150091EA7E /* LaunchScreen.storyboard */,
 				0AC64362234811150091EA7E /* Info.plist */,
 				0AC6435C234811150091EA7E /* Preview Content */,
+				0A0A18942351BEAA005EE57B /* UserData.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				0AC64357234811140091EA7E /* SceneDelegate.swift in Sources */,
 				0AC64359234811140091EA7E /* LandmarkDetail.swift in Sources */,
 				0AC643AA23496D460091EA7E /* LandmarkRow.swift in Sources */,
+				0A0A18952351BEAA005EE57B /* UserData.swift in Sources */,
 				0AC6438C234966570091EA7E /* Landmark.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
